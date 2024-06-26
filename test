@@ -1,0 +1,213 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://okteve.com/wp-content/uploads/media/2bca9209d6f475624bf5ae5678bdfbed-520x293.jpeg" group-title="Created By: Kevin D.B", ABN BIBLE MOVIES
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF: -1 tvg-chno="4" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anc-ph.png" group-title="Created By: Kevin D.B", ABS-CBN NEWS CHANNEL
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-chno="5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1zW8RLLNCQm6UHcIIJZlscOB5vhs7BF2I7SfTthYGv3LtHeRSut2-Ag&s=10" group-title="Created By: Kevin D.B", ACTION HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF: -1 tvg-chno="7" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="Created By: Kevin D.B", AL JAZEERA ENGLISH
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF: -1 tvg-chno="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-PXCjsRE70rim2FQrLWyFLR5iWKhtNSIDQ&usqp=CAU" group-title="Created By: Kevin D.B", AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF: -1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/54/6c/7d546c7e-2534-f7fc-9ead-7702b60f6800/source/256x256bb.jpg" group-title="Created By: Kevin D.B", ANG DATING DAAN
+https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6xIHJk4OPm5dwf0orgSAWEa3bgZ49IJ7YLQvkkoSpAtDAUoLy" group-title="Created By: Kevin D.B", ANIMAL PLANET HD
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF: -1 tvg-chno="10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2udZCLuNeskAT5pSOMqtfcP1Lug1FAs7GcN37ImWPK3mcjPrbd50OT-E&s=10" group-title="Created By: Kevin D.B", ARIRANG KOREA
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiEgqZLP8TwPy6dcXADKTLQRJXgHEjGfLIhw&usqp=CAU" group-title="Created By: Kevin D.B", ASIAN CRUSH
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF: -1 tvg-chno="11" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ava-family-iq.png" group-title="Created By: Kevin D.B", AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF: -1 tvg-logo="https://cms.cignal.tv/Upload/Images/AXN-New-Logo-(Black).jpg" group-title="Created By: Kevin D.B", AXN
+https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPpyH9FJC_akx-OfUAFhfK5vE9F8MRI2biQ&usqp=CAU" group-title="Created By: Kevin D.B", BABY SHARK TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5f24290fd0d0910ecab2b02e/1623649793412-5EZHW2J135YSBAWAACSQ/Untitled+presentation+%2817%29.jpg" group-title="Created By: Kevin D.B", BBC NEWS
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxG4TAncfjEhb1MMf-nGnbm2qG3YEjSlYZA&usqp=CAU" group-title="Created By: Kevin D.B", BIP TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQ7mpig7mzDorJP3kLpOCIxVVwL7FqQ8D8JKqdjQVBU6b6nuhQJ0wiE0&s=10" group-title="Created By: Kevin D.B", BLOOMBERG
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF: -1 tvg-chno="21" tvg-logo="https://m3u-editor.com/storage/channel-logos/cde825f0-1e4e-11ee-b209-cb1999120419/4976980/879651857.jpg" group-title="Created By: Kevin D.B", BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv059urG-wuVNO3V_EBA1YVOFBH0Odo_ffLA&usqp=CAU" group-title="Created By: Kevin D.B", BRAT TV
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-chno="27" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaW4n51StRKcE199Sswlqo8qon3B3_zqsWFQ&usqp=CAU" group-title="Created By: Kevin D.B", C31 MELBOURNE
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwyR3aQpZI1vXrL8a-RpyLstqGCi_HM9PuwJqSV4RJ8xgmQy82gC1QZP2G&s=10" group-title="Created By: Kevin D.B", CARTOON NETWORK
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShn2wn6Gh_mJrJ6P3sLbHB2bdgKgksZu3bl4ZJLTeND242uQwT" group-title="Created By: Kevin D.B", CARTOONITO
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF: -1 tvg-chno="29" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROs7yDnjvI4GOD9YmxOOZitLXeZdSaXiOtOw&s" group-title="Created By: Kevin D.B", CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF: -1 tvg-chno="30" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-america-cn.png" group-title="Created By: Kevin D.B", CCTV 4 AMERICA
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF: -1 tvg-chno="32" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png" group-title="Created By: Kevin D.B", CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF: -1 tvg-chno="33" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="Created By: Kevin D.B", CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF: -1 tvg-chno="34" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA.jpg" group-title="Created By: Kevin D.B", CHANNEL NEWS ASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwPET0HOkhXuXkMHpSChqc9ZYUb9tZoaUr1Q&usqp=CAU" group-title="Created By: Kevin D.B", CHARGE!
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF: -1 tvg-chno="38" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_one_ph.png" group-title="Created By: Kevin D.B", CINEMA ONE
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF: -1 tvg-chno="39" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBvEuXUALhVeJvQighWuLc0dbLjoc8P31Wzg&usqp=CAU" group-title="Created By: Kevin D.B", CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZIpA1bQouVMA-IoB2yMJhFHRVjRSDuNWfA&usqp=CAU" group-title="Created By: Kevin D.B", CMC (CALIFORNIA MUSIC CHANNEL)
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPoGVOjX2EdR9hLszsMeiWB1ENPRQOVWfvA&usqp=CAU" group-title="Created By: Kevin D.B", COMEDY CENTRAL
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-nzd3Ye2JIAqAYDo0pynVDbNg052KJ5oIw&usqp=CAU" group-title="Created By: Kevin D.B", CRACKLE TV
+https://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-chno="48" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da_ai_tv_tw.png" group-title="Created By: Kevin D.B", DA AI 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF: -1 tvg-chno="49" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da_ai_tv_tw_2.png" group-title="Created By: Kevin D.B", DA AI 2
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="Created By: Kevin D.B", DISCOVERY ASIA
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF: -1 tvg-chno="51" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTu4jmbMj85Ste8_sTMqGD9x7E1936YvTew&usqp=CAU" group-title="Created By: Kevin D.B", DISCOVERY HD
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF: -1 tvg-chno="52" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthOFIaToJiD6ElX5l-UshzPnDeLqNt37ALgSlmuvb76FeQR3t" group-title="Created By: Kevin D.B", DISCOVERY SCIENCE
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+#EXTINF: -1 tvg-chno="53" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxYRlWBm_1bLgEomRSsMuSXcYhA2bSHzzu2LznT2TaSlu7tXp_ZJ2zvY&s=10" group-title="Created By: Kevin D.B", DISCOVERY TURBO
+https://dplus.gammacdn.workers.dev/videos/98.m3u8
+#EXTINF: -1 tvg-chno="54" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="Created By: Kevin D.B", DMAX
+https://dplus.gammacdn.workers.dev/videos/109.m3u8
+#EXTINF: -1 tvg-chno="55" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb7xyno3bu9Bhw4y-UpuamKYFGud4qq5bUADFzWBh28l_sJ0AY" group-title="Created By: Kevin D.B", DOUYU MOVIES
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF: -1 tvg-logo="https://dreamstartv.com/wp-content/uploads/2024/04/436667086_1632841640585311_3849996459884239556_n-1.jpg" group-title="Created By: Kevin D.B", DREAMSTAR TV
+https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
+#EXTINF: -1 tvg-chno="56" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-one-ae.png" group-title="Created By: Kevin D.B", DUBAI ONE
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-chno="58" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="Created By: Kevin D.B", DW ENGLISH
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF: -1 tvg-chno="63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ9XB1NehPQ9Tn6ngNRif6Vxw1QGstrekl3g&s" group-title="Created By: Kevin D.B", FASHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/fight_tv_512X512_balck.png" group-title="Created By: Kevin D.B", FIGHT TV
+https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+#EXTINF: -1 tvg-chno="65" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="Created By: Kevin D.B", FOOD NETWORK
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF: -1 tvg-chno="66" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxVpMqyrRfrQIw6b40c7tqSPYVoXytuSLBA&usqp=CAU" group-title="Created By: Kevin D.B", FREE CLASSIC MOVIES
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/free-classic-movies/manifest.m3u8
+#EXTINF: -1 tvg-name="Global News" tvg-chno="67" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhqV2PiBz7LFzzT3AedFKyieuqKOJIOO2m9iZ9ofNqX5D65gs6Ynfwg98&s=10" group-title="Created By: Kevin D.B", GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlaCTXry4iri1eCIVgCvNRu5Avfx3rczs65g&usqp=CAU" group-title="Created By: Kevin D.B", GREAT COMMISION TV
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF: -1 tvg-chno="69" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66JaclFA9-dogbj7Yr0ItRuFrahP4kH-Kng&usqp=CAU" group-title="Created By: Kevin D.B", HALLMARK CHANNEL
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF: -1 tvg-chno="70" tvg-logo="https://hallmark.brightspotcdn.com/dims4/default/8ed6cca/2147483647/strip/true/crop/850x478+0+81/resize/1200x675!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2Fd0%2Fc0%2Fde5fbb244c6c8f5e1e4cf929976e%2Fhf-placeholder-2024.jpg" group-title="Created By: Kevin D.B", HALLMARK FAMILY
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl//playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF: -1 tvg-chno="72" tvg-logo="https://hallmark.brightspotcdn.com/dims4/default/b0a96a5/2147483647/strip/true/crop/850x478+0+81/resize/1200x675!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2F8e%2Fc6%2Fad8a9288493691992b7787d57a54%2Fhm-placeholder-2024.jpg" group-title="Created By: Kevin D.B", HALLMARK MYSTERY
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF: -1 tvg-logo="https://cms.cignal.tv/Upload/Images/HBO.jpg" group-title="Created By: Kevin D.B", HBO
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_6ex9NCeZbXrRbBn8uPYA6a_EVf5iNs-c9d1P9QZNGr6C5cdqYyG0HvE&s=10" group-title="Created By: Kevin D.B", HBO HITS
+https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+#EXTINF: -1 tvg-chno="74" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6pX1cwMRvk84B9bprVAguwdseroOuWqQGzy8hu79F-YSQOM5i" group-title="Created By: Kevin D.B", HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOabwOAPNMKuoOQqGUOaPogPqvVJmkZVg8haxKnnQAbul0qODL" group-title="Created By: Kevin D.B", HOPE TV
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/e9a0f1b659e4a6052fa798846914a4f7/manifest/video.m3u8
+#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/horrortv_512X512_balck.png" group-title="Created By: Kevin D.B", HORROR TV
+https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8
+#EXTINF: -1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/82/c8/4d/82c84d0d-a2a1-2df8-ee23-da091ed671c6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/256x256bb.jpg" group-title="Created By: Kevin D.B", INC TV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF: -1 tvg-chno="80" tvg-logo="https://www.lyngsat.com/logo/tv/ii/india_today_in_tv.png" group-title="Created By: Kevin D.B", INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF: -1 tvg-chno="82" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TMeNpGCPr2qcRynLSStj2lcIZxJWBVKAtRZSYWaiw6drMdWNNh_JOTas&s=10" group-title="Created By: Kevin D.B", INVESTIGATION DISCOVERY HD
+https://dplus.gammacdn.workers.dev/videos/101.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Created By: Kevin D.B", K-PLUS
+http://210.210.155.37:80/session/274ecd3e-106e-11ef-8c67-a97f80491119/uq2663/h/h08/01.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjBhMsB4knbdFXulz8N94jB6xFc5feoAjOljCeQDze2wvrWegUA4wX2BL&s=10" group-title="Created By: Kevin D.B", KARTOON CHANNEL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Kartoon.m3u8
+#EXTINF: -1 tvg-chno="88" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="Created By: Kevin D.B", KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF: -1 tvg-chno="94" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="Created By: Kevin D.B", LOTUS MACAU
+https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgWzJdYObIQ07WzptNXsnBW-8H5lnL8vcoo-vG7S4UyDWi7fnmqzfTzHI&s=10" group-title="Created By: Kevin D.B", MIAMI TV (MEXICO)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsWx6Zd2WLsnObKKYSVyWOsffQNCCDWH6KyUI91mohcdoLRHlJ9QB5vsv1&s=10" group-title="Created By: Kevin D.B", MOTOR RACING TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/6b22b4d2-dfa9-4010-9de9-f0819d38d8c9/0.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFK8xVyceD0ATAXAgjrfoyRYLy6yYnGVG2WHtpm0gv4rQZrsv-" group-title="Created By: Kevin D.B", MOVIE BOX
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RvYRtgx9OYVYi9BjvQMAxvnoyar8iulXGY6xW1e6SImKEhDR-qzqlMDa&s=10" group-title="Created By: Kevin D.B", MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsyHYR_3WVOi5kOOoakdQC8ws5gHym2EaM9Y3VGHFSJbf6-yTWXCDxV0X&s=10" group-title="Created By: Kevin D.B", MY CINEMA EUROPE
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-cjVtJTACA-O_h2vYD-lBxyTPhiQnQLuHdg&usqp=CAU" group-title="Created By: Kevin D.B", MYX (GLOBAL)
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF: -1 tvg-chno="105" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEB8MY_wbg6zQKoj7k7ZBP0VFL6EF_K5jGg&s" group-title="Created By: Kevin D.B", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF: -1 tvg-chno="106" tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="Created By: Kevin D.B", NEW K-MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF: -1 tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Created By: Kevin D.B", NHK WORLD JAPAN
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczgusZys7DtQxC2radgJgmp-Yfj4-T5cmILx7S30Q0-yWdVlT2y2T7Ofw&s=10" group-title="Created By: Kevin D.B", NHK WORLD PREMIUM
+https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-sports-plus-ph.png" group-title="Created By: Kevin D.B", ONE SPORTS PLUS
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
+#EXTINF: -1 tvg-chno="109" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="Created By: Kevin D.B", OUTDOOR CHANNEL
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF: -1 tvg-chno="110" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGIR4QHQu9Uhdk3Ku1s_21jPa1T6Hxbekpqn5aecLgKeSbfVYGW5m3e1k&s=10" group-title="Created By: Kevin D.B", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF: -1 tvg-chno="111" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4XjrKeamQmdS1huRQchQTjnlgvYQ5qvKaA&usqp=CAU" group-title="Created By: Kevin D.B", PET CLUB TV
+https://amg01076-lightningintern-petclub-samsungnz-g6424.amagi.tv/playlist/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXozQ3Ab0E9HQGgXv-Y0irycjMGGM4Fw4gXw&usqp=CAU" group-title="Created By: Kevin D.B", PLEX NEW MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyaG4TAejrPpBMxLONMAT0k81ZAXPBMhPsTA&usqp=CAU" group-title="Created By: Kevin D.B", RAKUTEN ACTION MOVIES
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-chno="116" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/real_madrid_tv_es_english.png" group-title="Created By: Kevin D.B", REAL MADRID TV
+https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYKmud53U1oiKZlvozPhgBhrLr6rpNVCoeQ&usqp=CAU" group-title="Created By: Kevin D.B", REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAIb_VResmOWb8FjyOKOFYrRoPqM7dzI5hnI8OVWHVgU7kxKQcVJ4gTGU&s=10" group-title="Created By: Kevin D.B", SBS SPORTS
+https://z88.ubtvfans.com/live/rx3/487/8cb994733ee12ff966d5c29941668a61/index.m3u8
+#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/scifi_world_512X512_balck.png" group-title="Created By: Kevin D.B", SCI-FI WORLD
+https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCm8wst0HP0HG6yitjxDvACx_k4UqBdtRKNM7sy-cgwCfRFnWQqxA0atb9&s=10" group-title="Created By: Kevin D.B", SMNI NEWS CHANNEL
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF: -1 tvg-chno="135" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-us-uk.png" group-title="Created By: Kevin D.B", SONY MOVIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF: -1 tvg-chno="136" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="Created By: Kevin D.B", SONY PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_channel_jp_1.png" group-title="Created By: Kevin D.B", STAR 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_channel_jp_2.png" group-title="Created By: Kevin D.B", STAR 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_channel_jp_3.png" group-title="Created By: Kevin D.B", STAR 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+#EXTINF: -1 tvg-logo="https://aphrodite.gmanetwork.com/assets/radio/images/og/super_radyo.jpg" group-title="Created By: Kevin D.B", SUPER RADYO DZBB
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://cdn.telummedia.com/uploads/cache/profile_image/uploads/corporates/logos/crop/2021/12/61aed27983fbb.jpg" group-title="Created By: Kevin D.B", TAIWAN PLUS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF: -1 tvg-chno="144" tvg-logo="https://lto.gov.ph/wp-content/uploads/2023/11/TeleRadyo_Serbisyo_logo.svg_.png" group-title="Created By: Kevin D.B", TELERADYO SERBISYO
+https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8dEgoKQDipi-0O-ZJX3-9-XxY5znC6uU0pxBy5_IycL3wIPmkD5nPYE&s=10" group-title="Created By: Kevin D.B", TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG09stifSaRyb0UvUYiNvdkTu5108tCUoyKQ&usqp=CAU" group-title="Created By: Kevin D.B", THRILL
+https://z88.ubtvfans.com/live/rx1/18/023f73a5f5902a44495cc710ffacc938/index.m3u8
+#EXTINF: -1 tvg-chno="151" tvg-logo="https://i.imgur.com/l19wTL4.png" group-title="Created By: Kevin D.B", TLC HD
+https://dplus.gammacdn.workers.dev/videos/97.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3rD7yCOLO40BXIx9m_gmQPyM3kMFROAwKA&usqp=CAU" group-title="Created By: Kevin D.B", TNT SPORTS 1
+https://z88.ubtvfans.com/live/rx3/165/8ccc6a511a634d429b7662dd412ff14c/index.m3u8
+#EXTINF: -1 tvg-chno="152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77oXe48RyZM4a8vHAUS75k_UfjVs6pzq82q8JGP6Uu9c7h3AmgDLJecA&s=10" group-title="Created By: Kevin D.B", TOKUSHOUTSU TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF: -1 tvg-chno="156" tvg-logo="https://cms.cignal.tv/Upload/Images/Travel-Channel-New-Logo.jpg" group-title="Created By: Kevin D.B", TRAVEL CHANNEL
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF: -1 tvg-chno="159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThlGr43DNHgqGbnKkRnJvQDzpQnAF6jvUiz_piBZm_sLGJpFgwU7Kw5pg&s=10" group-title="Created By: Kevin D.B", TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF: -1 tvg-logo="https://phcorner.net/attachments/images-3-png.2957263" group-title="Created By: Kevin D.B", TV5 HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpA33iXwCTcvhBYJR8T2yxI54pDt6e5H9cT_WkIOww9wjUhISPaNDrzPA&s=10" group-title="Created By: Kevin D.B", TVN
+https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3ccwAYbYPTN5KldQkZeP7XABNJNKf8XfuGQPt32tgKcs7xBYunzWN5Y&s=10" group-title="Created By: Kevin D.B", TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF: -1 tvg-chno="168" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7R_ZhVNF6jX26Iz2AG-xccWV2D3uJ-hp1dA&usqp=CAU" group-title="Created By: Kevin D.B", VEVO 2K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgBluAP_yNAKIpw3AjN1At--xKijbBw8TDQ&usqp=CAU" group-title="Created By: Kevin D.B", VICE TV
+https://lnc-vice.tubi.video/playlist.m3u8
+#EXTINF: -1 tvg-chno="173" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xlwd-ifL0ZPnB9rr3CMKbl8EXxJZM2LbIw&usqp=CAU" group-title="Created By: Kevin D.B", WELLBEING TV
+https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/playlist/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF: -1 tvg-chno="177" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4rsz7Z6tLuoxgeZgs5GUkE_Ppsush8CLVslq8pJQkComHSdKX" group-title="Created By: Kevin D.B", ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
